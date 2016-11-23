@@ -8,6 +8,7 @@
 当然首先必不可少的就是根据官方的文档申请一个 key ,做好使用地图前的准备, 此处不再详细谈论.
 
 可是基于默认的地图包来说,我偏偏要做成下图中的效果:
+
 ![1222.png](http://upload-images.jianshu.io/upload_images/2752594-1d38c93a6a30b90e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 好了,言归正传,首先,我们先把定位搞好:
